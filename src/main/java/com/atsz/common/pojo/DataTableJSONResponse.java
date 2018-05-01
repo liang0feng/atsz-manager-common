@@ -1,8 +1,8 @@
-﻿package com.atguigu.common.pojo;
+﻿package com.atsz.common.pojo;
 
 import java.util.List;
 
-public class DataTableJSONResponse{
+public class DataTableJSONResponse {
 	Object sEcho;
 	Object iTotalRecords; // 查询的记录数
 	Object iTotalDisplayRecords; // 过滤后的记录数
